@@ -1,10 +1,8 @@
 <!----  ![MasterHead](https://i.ibb.co/hM6qwDp/logo-main.png)
 
 --->
-
-
 <p align="center">
-  <img src="https://i.ibb.co/khWzTN4/logo-main-1.png">
+  <img src="https://github.com/ashsun421/ashsun421/assets/65097573/436c3be3-9c27-4c6f-927c-83b64c8cb7a5">
 </p>
 
 <h1 align="center">Hi there, I'm Ashwin👋</h1>
