@@ -1,8 +1,4 @@
-<div align="center">
- <img src=”https://github.com/ashsun421/ashsun421/assets/65097573/ff0f5f1b-d0ca-4c82-8663-3bb7b585e77a" alt=”my banner”>
-</div>
-
-
+![MasterHead](https://i.ibb.co/qWZfKwB/logo.png)
 
 <h1 align="center">Hi there, I'm Ashwin👋</h1>
 
