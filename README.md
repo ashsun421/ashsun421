@@ -2,6 +2,8 @@
  <img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
 </div>
 
+https://github.com/ashsun421/ashsun421/assets/65097573/ff0f5f1b-d0ca-4c82-8663-3bb7b585e77a
+
 <h1 align="center">Hi there, I'm Ashwin👋</h1>
 
 <p align="center">
