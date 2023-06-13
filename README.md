@@ -1,4 +1,5 @@
-![MasterHead](https://i.ibb.co/qWZfKwB/logo.png)
+<!----![MasterHead](https://i.ibb.co/qWZfKwB/logo.png)
+--->
 
 <h1 align="center">Hi there, I'm Ashwin👋</h1>
 
