@@ -15,7 +15,7 @@
 
 ### 🖥️ I'm currently working on
 - Expanding a few of my school projects
-- Creating a tool to scan text from the screen and search on Google
+- Creating small online tools for daily use
 - Creating a few small games
 - Developing my personal website
 
