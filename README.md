@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://i.ibb.co/hM6qwDp/logo-main.png">
+  <img src="https://i.ibb.co/khWzTN4/logo-main-1.png">
 </p>
 
 <h1 align="center">Hi there, I'm Ashwin👋</h1>
