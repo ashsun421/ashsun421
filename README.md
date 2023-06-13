@@ -21,11 +21,12 @@
 - Developing my personal website
 
 ### 🤝Connect with me:
-Feel free to connect with me, whether it's for collaboration or just to say hello. You can reach me via email at ashsun421@gmail.com or at my LinkedIn below 😄
-<div id="badges">
-  <a href=" https://www.linkedin.com/in/ashwin-sundaresan/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+Feel free to connect with me, whether it's for collaboration or just to say hello.
+
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> https://www.linkedin.com/in/ashwin-sundaresan/
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt = "Gmail Badge"/> ashsun421@gmail.com
+
 
 
 
