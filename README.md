@@ -1,5 +1,11 @@
-<!----![MasterHead](https://i.ibb.co/qWZfKwB/logo.png)
+<!----  ![MasterHead](https://i.ibb.co/hM6qwDp/logo-main.png)
+
 --->
+
+
+<p align="center">
+  <img src="https://i.ibb.co/hM6qwDp/logo-main.png">
+</p>
 
 <h1 align="center">Hi there, I'm Ashwin👋</h1>
 
