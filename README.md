@@ -4,9 +4,10 @@ https://github.com/ashsun421/ashsun421/assets/65097573/436c3be3-9c27-4c6f-927c-8
 https://github.com/ashsun421/ashsun421/assets/65097573/a97c81e6-b06f-41bb-9069-997d814f9c96
 https://github.com/ashsun421/ashsun421/assets/65097573/c2674e9e-9e9e-46e0-9703-8f7de9ece051
 https://github.com/ashsun421/ashsun421/assets/65097573/42f49c8d-4e90-4c12-be1f-6c43685eacaf
+https://github.com/ashsun421/ashsun421/assets/65097573/a97c81e6-b06f-41bb-9069-997d814f9c96
 --->
 <p align="center">
-  <img src="https://github.com/ashsun421/ashsun421/assets/65097573/a97c81e6-b06f-41bb-9069-997d814f9c96">
+  <img src="https://github.com/ashsun421/ashsun421/assets/65097573/b9acfb7a-a6f2-4aca-a6b0-39aadaf231f3">
 </p>
 
 <h1 align="center">Hi there, I'm Ashwin👋</h1>
