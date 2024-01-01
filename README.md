@@ -17,7 +17,7 @@ https://github.com/ashsun421/ashsun421/assets/65097573/a97c81e6-b06f-41bb-9069-9
 </p>
 
 ### 😎 Hobbies
-- Programming personal projects: Python, C, HTML (Learning)
+- Programming personal projects: Python, C, Java, HTML (Learning)
 - Logo making, Website making and Photography
 - CAD Modelling: Fusion 360, AutoCAD, SketchUp
 - Playing sports and going to the gym
