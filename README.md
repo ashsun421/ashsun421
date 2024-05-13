@@ -9,8 +9,7 @@ https://github.com/ashsun421/ashsun421/assets/65097573/a97c81e6-b06f-41bb-9069-9
 <p align="center">
   <img src="https://github.com/ashsun421/ashsun421/assets/65097573/b9acfb7a-a6f2-4aca-a6b0-39aadaf231f3">
 </p>
-![image title](https://rushter.com/counter.svg)
-Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+![](https://komarev.com/ghpvc/?username=ashsun421&color=red)
 
 
 <h1 align="center">Hi there, I'm Ashwin👋</h1>
